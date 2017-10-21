@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-config-saymedia",
+  "version": "1.0.0",
+  "description": "Say Media's stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saymedia/stylelint-config-saymedia.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "config",
+    "saymedia",
+    "css"
+  ],
+  "author": "Scott Vandehey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saymedia/stylelint-config-saymedia/issues"
+  },
+  "homepage": "https://github.com/saymedia/stylelint-config-saymedia#readme",
+  "dependencies": {
+    "stylelint": "^8.2.0",
+    "stylelint-config-standard": "^17.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^1.0.1",
+    "stylelint-order": "^0.7.0",
+    "stylelint-scss": "^2.1.0"
+  }
+}
