@@ -7,7 +7,7 @@
 Install [stylelint](https://stylelint.io/) and `stylelint-config-saymedia`:
 
 ```
-npm install stylelint saymedia/stylelint-config-shopify --save-dev
+npm install stylelint saymedia/stylelint-config-saymedia --save-dev
 ```
 
 ## Usage
