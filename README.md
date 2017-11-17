@@ -130,7 +130,7 @@ This is a list of the lints turned on in this configuration (beyond the ones tha
 * [`scss/at-function-pattern`](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-function-pattern/README.md): Use `snake_case` for functions
 
 ##### @mixin
-* [`scss/at-mixin-argumentless-call-parentheses`](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-argumentless-call-parentheses/README.md): Disallow parentheses in argumentless `@mixin` calls.
+* [`scss/at-mixin-argumentless-call-parentheses`](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-argumentless-call-parentheses/README.md): Require parentheses in argumentless `@mixin` calls.
 * [`scss/at-mixin-parentheses-space-before`](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-parentheses-space-before/README.md): Disallow a space before `@mixin` parentheses.
 * [`scss/at-mixin-pattern`](https://github.com/kristerkari/stylelint-scss/blob/master/src/rules/at-mixin-pattern/README.md): Use `snake_case` for mixins
 

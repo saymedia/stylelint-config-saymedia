@@ -49,7 +49,7 @@ module.exports = {
         "scss/at-if-closing-brace-space-after": "always-intermediate",
         "scss/at-function-parentheses-space-before": "never",
         "scss/at-function-pattern": "^([a-z][a-z0-9]*)(_[a-z0-9]+)*$",
-        "scss/at-mixin-argumentless-call-parentheses": "never",
+        "scss/at-mixin-argumentless-call-parentheses": "always",
         "scss/at-mixin-parentheses-space-before": "never",
         "scss/at-mixin-pattern": "^([a-z][a-z0-9]*)(_[a-z0-9]+)*$",
         "scss/at-rule-no-unknown": true,

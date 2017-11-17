@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-saymedia",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Say Media's stylelint config",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "saymedia",
     "css"
   ],
-  "author": "Scott Vandehey",
+  "author": "Say Media",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/saymedia/stylelint-config-saymedia/issues"
