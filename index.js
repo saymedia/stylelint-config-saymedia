@@ -24,7 +24,6 @@ module.exports = {
             ignore: ["comments"],
         } ],
         "media-feature-name-no-vendor-prefix": true,
-        "no-unknown-animations": true,
         "property-no-vendor-prefix": true,
         "rule-empty-line-before": [ "always-multi-line", {
             ignore: ["after-comment"],

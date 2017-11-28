@@ -87,7 +87,6 @@ This is a list of the lints turned on in this configuration (beyond the ones tha
 #### General / Sheet
 * [`indentation`](https://github.com/stylelint/stylelint/blob/master/lib/rules/indentation/README.md): Use 4 spaces for indentation
 * [`max-line-length`](https://github.com/stylelint/stylelint/blob/master/lib/rules/max-line-length/README.md): Limit line lengths to 100 characters (excluding comments)
-* [`no-unknown-animations`](https://github.com/stylelint/stylelint/blob/master/lib/rules/no-unknown-animations/README.md): Disallow unknown animations.
 
 #### Media Feature
 * [`media-feature-name-no-vendor-prefix`](https://github.com/stylelint/stylelint/blob/master/lib/rules/media-feature-name-no-vendor-prefix/README.md): Disallow vendor prefixes for media feature names
