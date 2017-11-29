@@ -63,7 +63,6 @@ module.exports = {
         "scss/dollar-variable-no-missing-interpolation": true,
         "scss/dollar-variable-pattern": "^([a-z][a-z0-9]*)(_[a-z0-9]+)*$",
         "scss/double-slash-comment-empty-line-before": [ "always", {
-            except: ["first-nested"],
             ignore: ["between-comments", "stylelint-commands"],
         } ],
         "scss/double-slash-comment-whitespace-inside": "always",

@@ -1,3 +1,6 @@
+# 2.2.0 - 2017-11-29
+* Removed: `except: ["first-nested"]` option from `scss/double-slash-comment-empty-line-before` rule, because it's not what we actually wanted.
+
 # 2.1.0 - 2017-11-28
 * Removed: `no-descending-specificity` rule, due to false positives, pending [#2489](https://github.com/stylelint/stylelint/issues/2489)
 
