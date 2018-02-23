@@ -1,3 +1,10 @@
+# 2.3.0 - 2018-02-23
+* Changed: updated to [`stylelint@9.1.1`](https://github.com/stylelint/stylelint/releases/tag/9.1.1).
+* Changed: updated to [`stylelint-config-standard@18.1.0`](https://github.com/stylelint/stylelint-config-standard/releases/tag/18.1.0).
+* Changed: updated to [`stylelint-declaration-block-no-ignored-properties@1.1.0`](https://github.com/kristerkari/stylelint-declaration-block-no-ignored-properties/releases/tag/1.1.0).
+* Changed: updated to [`stylelint-order@0.8.1`](https://github.com/hudochenkov/stylelint-order/releases/tag/0.8.1).
+* Changed: updated to [`stylelint-scss@2.4.0`](https://github.com/kristerkari/stylelint-scss/releases/tag/2.4.0).
+
 # 2.2.0 - 2017-11-29
 * Removed: `except: ["first-nested"]` option from `scss/double-slash-comment-empty-line-before` rule, because it's not what we actually wanted.
 
