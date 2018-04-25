@@ -1,3 +1,9 @@
+# 2.4.0 - 2018-04-25
+* Change: all package.json rules to use `~` instead of `^` to avoid accidental minor version upgrades and problems.
+* Changed: updated to [`stylelint@9.2.0`](https://github.com/stylelint/stylelint/releases/tag/9.2.0).
+* Changed: updated to [`stylelint-config-standard@18.2.0`](https://github.com/stylelint/stylelint-config-standard/releases/tag/18.2.0).
+* Changed: updated to [`stylelint-scss@3.0.1`](https://github.com/kristerkari/stylelint-scss/releases/tag/3.0.1).
+
 # 2.3.0 - 2018-02-23
 * Changed: updated to [`stylelint@9.1.1`](https://github.com/stylelint/stylelint/releases/tag/9.1.1).
 * Changed: updated to [`stylelint-config-standard@18.1.0`](https://github.com/stylelint/stylelint-config-standard/releases/tag/18.1.0).
